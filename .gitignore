@@ -51,3 +51,4 @@ build-iPhoneSimulator/
 .idea
 .DS_Store
 .env
+barbershop.db
